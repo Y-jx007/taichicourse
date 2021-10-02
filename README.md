@@ -3,7 +3,7 @@
 ## 运行结果
 
 ![fractal demo](./data/fractal.jpg)
-![demo](./pictures/相干.png)
+![demo](./pictures/相干.png,./pictures/方块.png,./pictures/艾里斑.png,./pictures/非相干.png)
 ## 整体结构（Optional）
 
 
